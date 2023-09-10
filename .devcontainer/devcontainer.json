@@ -1,0 +1,8 @@
+{
+  "name": "Bun.js Workspace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "workspaceFolder": "/workspaces",
+  "remoteUser": "root"
+}
